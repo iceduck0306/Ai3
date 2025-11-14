@@ -70,7 +70,7 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": ["짬뽕의 특징과 유래", "국물 맛 포인트", "지역별 스타일 차이"],
+       "texts": ["네이마르는브라질 축구선수입니다", "여친 다수 보유", "에버랜드 방문"],
        "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
        "videos": ["https://youtu.be/XXXXXXXXXXX"]
      },
